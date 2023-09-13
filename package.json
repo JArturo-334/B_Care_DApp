@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.7.0",
-    "truffle": "^5.4.30"
+    "truffle": "^5.4.30",
+    "web3": "^4.1.1"
   }
 }
